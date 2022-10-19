@@ -1,0 +1,71 @@
+{
+  "Img1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "Img5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "ico1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ico2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ico3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ico4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ico5.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ico6.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Img4.jpg": {
+    "mime": "image/jpeg"
+  },
+  "Img3.jpg": {
+    "mime": "image/jpeg"
+  },
+  "Img2.jpg": {
+    "mime": "image/jpeg"
+  },
+  "Img5.jpg": {
+    "mime": "image/jpeg"
+  },
+  "Img6.jpg": {
+    "mime": "image/jpeg"
+  },
+  "Ico7.png": {
+    "mime": "image/png"
+  },
+  "facebook.png": {
+    "mime": "image/png"
+  },
+  "twitter.png": {
+    "mime": "image/png"
+  },
+  "instagram.png": {
+    "mime": "image/png"
+  },
+  "linkedin.png": {
+    "mime": "image/png"
+  },
+  "youtube.png": {
+    "mime": "image/png"
+  },
+  "dribble.png": {
+    "mime": "image/png"
+  },
+  "behance.png": {
+    "mime": "image/png"
+  },
+  "cart.png": {
+    "mime": "image/png"
+  },
+  "Ico8.svg": {
+    "mime": "image/svg+xml"
+  }
+}
