@@ -40,10 +40,8 @@ export function updateStoreStateFromController(pageName, newState) {
 const desktopModeProps = {
   ...{
   "Home": {
-    "Flex6": {
-      "callbacks": {
-        "onClick": []
-      }
+    "Flex79": {
+      "callbacks": {}
     },
     "Flex14": {
       "callbacks": {}

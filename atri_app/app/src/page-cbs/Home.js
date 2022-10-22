@@ -40,18 +40,6 @@ export function useDropdown2Cb() {
 }), [])
 	return { onChange }
 }
-export function useFlex6Cb() {
-	const onClick = useCallback(callbackFactory("Flex6", "Home", "/", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
 export function useDiv4Cb() {
 	const onClick = useCallback(callbackFactory("Div4", "Home", "/", "onClick", 
 			{
@@ -2281,6 +2269,18 @@ export function useImage53Cb() {
       "sendEventData": true
     }
   ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex79Cb() {
+	const onClick = useCallback(callbackFactory("Flex79", "Home", "/", "onClick", 
+			{
+  "handlers": [],
   "actions": [
     {
       "type": "do_nothing"
